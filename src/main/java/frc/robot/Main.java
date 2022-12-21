@@ -2,8 +2,8 @@
 // Open Source Software; you can modify and/or share it under the terms of
 // the WPILib BSD license file in the root directory of this project.
 
-// YO IT'S IAN. I'M JUST TESTING TO SEE IF PUSHING TO MY PERSONAL BRANCH WORKS (づ｡◕‿‿◕｡)づ
-// YAAAS IT WORKS! ELIJAH IS BEING A GRUMPYPUS AND NOT WANTING TO BE A LIL BIT SILLY THIS YEAR (◕︿◕✿)
+// YO IT'S IAN. I'M JUST TESTING TO SEE IF PUSHING TO MY PERSONAL BRANCH WORKS OWO
+// YAAAS IT WORKS! ELIJAH IS BEING A GRUMPYPUS AND NOT WANTING TO BE A LIL BIT SILLY THIS YEAR UWU
 // URU ARA ARA~
 
 package frc.robot;
